@@ -1,0 +1,20 @@
+[ 
+    {
+    "id": "1",
+    "name": "bharti",
+    "class": "12",
+    "city" : "kishanganj"
+    },
+    {
+        "id": "2",
+        "name": "bhartikumari",
+        "class": "13",
+        "city" : "kishanganjkkk"
+    },
+    {
+        "id": "3",
+        "name": "neha",
+        "class": "13",
+        "city" : "jhanshi"
+    }
+]
