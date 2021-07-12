@@ -1,20 +1,44 @@
-[ 
-    {
+[
+  {
     "id": "1",
     "name": "bharti",
     "class": "12",
-    "city" : "kishanganj"
-    },
-    {
-        "id": "2",
-        "name": "bhartikumari",
-        "class": "13",
-        "city" : "kishanganjkkk"
-    },
-    {
-        "id": "3",
-        "name": "neha",
-        "class": "13",
-        "city" : "jhanshi"
-    }
+    "city": "kishanganj"
+  },
+  {
+    "id": "2",
+    "name": "bhartikumari",
+    "class": "13",
+    "city": "kishanganjkkk"
+  },
+  {
+    "id": "3",
+    "name": "neha",
+    "class": "13",
+    "city": "jhanshi"
+  },
+  {
+    "id": 4,
+    "name": "jyoti",
+    "class": "6",
+    "city": "mp"
+  },
+  {
+    "id": 5,
+    "name": "jyoti",
+    "class": "6",
+    "city": "mp"
+  },
+  {
+    "id": 6,
+    "name": "Sarmishta",
+    "class": "12",
+    "city": "jh"
+  },
+  {
+    "id": 7,
+    "name": "kabita",
+    "class": "116",
+    "city": "bihar"
+  }
 ]
